@@ -74,6 +74,8 @@ THE SOFTWARE.
   </issueManagement>
 
   <properties>
+    <sonar.organization>fatmalabidi</sonar.organization>
+    <sonar.host.url>https://sonarcloud.io</sonar.host.url>  
     <revision>2.403</revision>
     <changelist>-SNAPSHOT</changelist>
 
